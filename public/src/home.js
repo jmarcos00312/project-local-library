@@ -39,7 +39,7 @@ function getMostPopularBooks(books) {
 }
 
 function getMostPopularAuthors(books, authors) {
-  let mostPopular = books.
+  // let mostPopular = books.
 }
 
 module.exports = {
